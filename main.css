@@ -1,0 +1,25 @@
+.image-footer {
+display: inline-block;
+}
+
+.image-number {
+  float: left;
+}
+.authors img {
+  width: 30px;
+  height: auto;
+  box-sizing: border-box;
+}
+.image-caption {
+  width: 30%;
+  height: auto;
+
+}
+.octocat {
+  width: 25%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  left: 20px;
+
+}
